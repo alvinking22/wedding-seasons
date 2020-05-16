@@ -1,0 +1,179 @@
+Return-Path: <>
+X-Original-To: dh_xbtk77@hedgehog.dreamhost.com
+Delivered-To: dh_xbtk77@hedgehog.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by hedgehog.dreamhost.com (Postfix) with ESMTP id 34855363EE
+	for <dh_xbtk77@hedgehog.dreamhost.com>; Fri, 15 May 2020 14:48:48 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id 2774EB40084; Fri, 15 May 2020 14:48:48 -0700 (PDT)
+Date: Fri, 15 May 2020 14:48:48 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: dh_xbtk77@hedgehog.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="18CEBB40060.1589579328/iad1-shared-relay1.dreamhost.com"
+Message-Id: <20200515214848.2774EB40084@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--18CEBB40060.1589579328/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+https://www.dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<info@weddingseasons.app>: host weddingseasons.app[173.236.184.180] said: 554
+    5.7.1 <info@weddingseasons.app>: Recipient address rejected: Access denied
+    (in reply to RCPT TO command)
+
+--18CEBB40060.1589579328/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 18CEBB40060
+X-Postfix-Sender: rfc822; dh_xbtk77@hedgehog.dreamhost.com
+Arrival-Date: Fri, 15 May 2020 14:48:48 -0700 (PDT)
+
+Final-Recipient: rfc822; info@weddingseasons.app
+Original-Recipient: rfc822;info@weddingseasons.app
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; weddingseasons.app
+Diagnostic-Code: smtp; 554 5.7.1 <info@weddingseasons.app>: Recipient address
+    rejected: Access denied
+
+--18CEBB40060.1589579328/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <dh_xbtk77@hedgehog.dreamhost.com>
+Received: from hedgehog.dreamhost.com (hedgehog.dreamhost.com [173.236.184.142])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 18CEBB40060
+	for <info@weddingseasons.app>; Fri, 15 May 2020 14:48:48 -0700 (PDT)
+Received: by hedgehog.dreamhost.com (Postfix, from userid 5575279)
+	id 14603363EF; Fri, 15 May 2020 14:48:48 -0700 (PDT)
+To: info@weddingseasons.app
+Subject: =?UTF-8?Q?[Wedding_Seasons]_Nuevo_anuncio_de_la_presentaci=C3=B3n:_"ROSET?=  =?UTF-8?Q?TE_EVENTOS_RD"?=
+X-PHP-Originating-Script: 5575279:class-phpmailer.php
+Date: Fri, 15 May 2020 21:48:48 +0000
+From: WordPress <wordpress@weddingseasons.app>
+Message-ID: <a5c25b4b6c151b2fdbd164b29629d5e5@weddingseasons.app>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>=0A<html lang=3D"es">=0A<head>=0A<meta name=3D"viewport" con=
+tent=3D"width=3Ddevice-width">=0A<meta http-equiv=3D"Content-Type" content=
+=3D"text/html; charset=3DUTF-8">=0A<title>Wedding Seasons</title>=0A</head>=
+=0A<body class=3D"" style=3D"background-color: #f6f6f6; font-family: sans-s=
+erif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.=
+4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%;">
+=09<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"body" style=3D"border-collapse: separate; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #f6f6f6;"><tr>=
+=0A<td style=3D"font-family: sans-serif; font-size: 14px; vertical-align: t=
+op;">=C2=A0</td>
+=09=09=09<td class=3D"container" style=3D"font-family: sans-serif; font-siz=
+e: 14px; vertical-align: top; display: block; max-width: 580px; padding: 10=
+px; width: 580px; margin: 0 auto;">
+=09=09=09=09<div class=3D"content" style=3D"box-sizing: border-box; display=
+: block; margin: 0 auto; max-width: 580px; padding: 10px;">
+=09=09=09=09=09<table role=3D"presentation" class=3D"main" style=3D"border-=
+collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 10=
+0%; background: #ffffff; border-radius: 3px;"><tr>=0A<td class=3D"wrapper" =
+style=3D"font-family: sans-serif; font-size: 14px; vertical-align: top; box=
+-sizing: border-box; padding: 20px;">
+=09=09=09=09=09=09=09=09<table role=3D"presentation" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" style=3D"border-collapse: separate; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; width: 100%;"><tr>=0A<td style=3D"font-fa=
+mily: sans-serif; font-size: 14px; vertical-align: top;">
+
+
+<p style=3D"font-family: sans-serif; font-size: 14px; font-weight: normal; =
+margin: 0; margin-bottom: 15px;">A new listing has been submitted: <strong>=
+ROSETTE EVENTOS RD</strong> by user <strong>yeraldin</strong>.</p>=0A<br><a=
+ href=3D"https://weddingseasons.app/wp-admin/post.php?post=3D4740&amp;actio=
+n=3Dedit" class=3D"mbtn mbtn1" target=3D"_blank" style=3D"color: #ffffff; t=
+ext-decoration: none; background-color: #097369; border: 2px solid #097369;=
+ border-radius: 50px; box-sizing: border-box; cursor: pointer; display: inl=
+ine-block; font-size: 14px; font-weight: bold; margin: 5px 5px 5px 0; paddi=
+ng: 8px 20px; border-color: #097369;">Revisi=C3=B3n De Listado De</a><a hre=
+f=3D"https://weddingseasons.app/listing/rosette-eventos-rd/" class=3D"mbtn"=
+ target=3D"_blank" style=3D"color: #097369; text-decoration: none; backgrou=
+nd-color: transparent; border: 2px solid #097369; border-radius: 50px; box-=
+sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px=
+; font-weight: bold; margin: 5px 5px 5px 0; padding: 8px 20px;">Ver Listado=
+</a><a href=3D"https://weddingseasons.app/wp-admin/user-edit.php?user_id=3D=
+2" class=3D"mbtn" target=3D"_blank" style=3D"color: #097369; text-decoratio=
+n: none; background-color: transparent; border: 2px solid #097369; border-r=
+adius: 50px; box-sizing: border-box; cursor: pointer; display: inline-block=
+; font-size: 14px; font-weight: bold; margin: 5px 5px 5px 0; padding: 8px 2=
+0px;">Ver perfil de usuario</a>
+=09=09                                </td>
+=09=09                            </tr></table>=0A</td>
+=09=09                </tr></table>=0A<div class=3D"footer" style=3D"clear:=
+ both; margin-top: 10px; text-align: center; width: 100%;">
+                        <table role=3D"presentation" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" style=3D"border-collapse: separate; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; width: 100%;"><tr>=0A<td class=3D"content=
+-block powered-by" style=3D"font-family: sans-serif; font-size: 12px; verti=
+cal-align: top; padding-bottom: 10px; padding-top: 10px; color: #999999; te=
+xt-align: center;">
+                                =09<a href=3D"https://weddingseasons.app/" =
+target=3D"_blank" style=3D"color: #999999; text-decoration: none; font-size=
+: 12px; text-align: center;">
+                                =09=09<strong>Wedding Seasons</strong><br>
+                                =09=09Directorio digital para Bodas        =
+                        =09</a>
+                                </td>
+                            </tr></table>=0A</div>
+                </div>
+            </td>
+            <td style=3D"font-family: sans-serif; font-size: 14px; vertical=
+-align: top;">=C2=A0</td>
+        </tr></table>=0A<style type=3D"text/css">@media only screen and (ma=
+x-width: 620px) {
+        =09table[class=3Dbody] h1 { font-size: 28px !important; margin-bott=
+om: 10px !important; }
+        =09table[class=3Dbody] p, table[class=3Dbody] ul, table[class=3Dbod=
+y] ol, table[class=3Dbody] td,
+        =09table[class=3Dbody] span, table[class=3Dbody] a { font-size: 16p=
+x !important; }
+        =09table[class=3Dbody] .wrapper, table[class=3Dbody] .article { pad=
+ding: 10px !important; }
+        =09table[class=3Dbody] .content { padding: 0 !important; }
+        =09table[class=3Dbody] .container { padding: 0 !important; width: 1=
+00% !important; }
+        =09table[class=3Dbody] .main { border-left-width: 0 !important; bor=
+der-radius: 0 !important; border-right-width: 0 !important; }
+        =09table[class=3Dbody] .btn table { width: 100% !important; }
+        =09table[class=3Dbody] .btn a { width: 100% !important; }
+        =09table[class=3Dbody] .mbtn { width: 100% !important; margin-right=
+: 0px !important; text-align: center !important; }
+        =09table[class=3Dbody] .img-responsive { height: auto !important; m=
+ax-width: 100% !important; width: auto !important; }
+        }</style>=0A</body>=0A</html>=0A
+
+--18CEBB40060.1589579328/iad1-shared-relay1.dreamhost.com--

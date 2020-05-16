@@ -1,0 +1,142 @@
+Return-Path: <>
+X-Original-To: dh_xbtk77@hedgehog.dreamhost.com
+Delivered-To: dh_xbtk77@hedgehog.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by hedgehog.dreamhost.com (Postfix) with ESMTP id 15E6C35CDD
+	for <dh_xbtk77@hedgehog.dreamhost.com>; Mon, 11 May 2020 16:00:30 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id EFA10B400B5; Mon, 11 May 2020 16:00:29 -0700 (PDT)
+Date: Mon, 11 May 2020 16:00:29 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: dh_xbtk77@hedgehog.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="60C2CB400B1.1589238029/iad1-shared-relay1.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200511230029.EFA10B400B5@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--60C2CB400B1.1589238029/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+https://www.dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<info@weddingseasons.app>: host weddingseasons.app[173.236.184.180] said: 554
+    5.7.1 <info@weddingseasons.app>: Recipient address rejected: Access denied
+    (in reply to RCPT TO command)
+
+--60C2CB400B1.1589238029/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 60C2CB400B1
+X-Postfix-Sender: rfc822; dh_xbtk77@hedgehog.dreamhost.com
+Arrival-Date: Mon, 11 May 2020 16:00:29 -0700 (PDT)
+
+Final-Recipient: rfc822; info@weddingseasons.app
+Original-Recipient: rfc822;info@weddingseasons.app
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; weddingseasons.app
+Diagnostic-Code: smtp; 554 5.7.1 <info@weddingseasons.app>: Recipient address
+    rejected: Access denied
+
+--60C2CB400B1.1589238029/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <dh_xbtk77@hedgehog.dreamhost.com>
+Received: from hedgehog.dreamhost.com (hedgehog.dreamhost.com [173.236.184.142])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 60C2CB400B1
+	for <info@weddingseasons.app>; Mon, 11 May 2020 16:00:29 -0700 (PDT)
+Received: by hedgehog.dreamhost.com (Postfix, from userid 5575279)
+	id 409EA35CE6; Mon, 11 May 2020 16:00:29 -0700 (PDT)
+To: info@weddingseasons.app
+Subject: [Weddingseasons] New listing submission: "Photography"
+X-PHP-Originating-Script: 5575279:class-phpmailer.php
+Date: Mon, 11 May 2020 23:00:29 +0000
+From: WordPress <wordpress@weddingseasons.app>
+Message-ID: <5d5e76d761e0e000cb70be1702c102d3@weddingseasons.app>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Weddingseasons</title>
+</head>
+<body class="" style="background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">
+	<table role="presentation" border="0" cellpadding="0" cellspacing="0" class="body" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background-color: #f6f6f6;"><tr>
+<td style="font-family: sans-serif; font-size: 14px; vertical-align: top;"> </td>
+			<td class="container" style="font-family: sans-serif; font-size: 14px; vertical-align: top; display: block; max-width: 580px; padding: 10px; width: 580px; margin: 0 auto;">
+				<div class="content" style="box-sizing: border-box; display: block; margin: 0 auto; max-width: 580px; padding: 10px;">
+					<table role="presentation" class="main" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; background: #ffffff; border-radius: 3px;"><tr>
+<td class="wrapper" style="font-family: sans-serif; font-size: 14px; vertical-align: top; box-sizing: border-box; padding: 20px;">
+								<table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;"><tr>
+<td style="font-family: sans-serif; font-size: 14px; vertical-align: top;">
+
+
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">A new listing has been submitted: <strong>Photography</strong> by user <strong>AlejandroTaveras</strong>.</p>
+<br><a href="https://weddingseasons.app/wp-admin/post.php?post=4617&amp;action=edit" class="mbtn mbtn1" target="_blank" style="color: #ffffff; text-decoration: none; background-color: #097369; border: 2px solid #097369; border-radius: 50px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 5px 5px 5px 0; padding: 8px 20px; border-color: #097369;">Review Listing</a><a href="https://weddingseasons.app/wp-admin/user-edit.php?user_id=287" class="mbtn" target="_blank" style="color: #097369; text-decoration: none; background-color: transparent; border: 2px solid #097369; border-radius: 50px; box-sizing: border-box; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 5px 5px 5px 0; padding: 8px 20px;">View user profile</a>
+		                                </td>
+		                            </tr></table>
+</td>
+		                </tr></table>
+<div class="footer" style="clear: both; margin-top: 10px; text-align: center; width: 100%;">
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;"><tr>
+<td class="content-block powered-by" style="font-family: sans-serif; font-size: 12px; vertical-align: top; padding-bottom: 10px; padding-top: 10px; color: #999999; text-align: center;">
+                                	<a href="https://weddingseasons.app/" target="_blank" style="color: #999999; text-decoration: none; font-size: 12px; text-align: center;">
+                                		<strong>Weddingseasons</strong><br>
+                                		Momentos Memorables                                	</a>
+                                </td>
+                            </tr></table>
+</div>
+                </div>
+            </td>
+            <td style="font-family: sans-serif; font-size: 14px; vertical-align: top;"> </td>
+        </tr></table>
+<style type="text/css">@media only screen and (max-width: 620px) {
+        	table[class=body] h1 { font-size: 28px !important; margin-bottom: 10px !important; }
+        	table[class=body] p, table[class=body] ul, table[class=body] ol, table[class=body] td,
+        	table[class=body] span, table[class=body] a { font-size: 16px !important; }
+        	table[class=body] .wrapper, table[class=body] .article { padding: 10px !important; }
+        	table[class=body] .content { padding: 0 !important; }
+        	table[class=body] .container { padding: 0 !important; width: 100% !important; }
+        	table[class=body] .main { border-left-width: 0 !important; border-radius: 0 !important; border-right-width: 0 !important; }
+        	table[class=body] .btn table { width: 100% !important; }
+        	table[class=body] .btn a { width: 100% !important; }
+        	table[class=body] .mbtn { width: 100% !important; margin-right: 0px !important; text-align: center !important; }
+        	table[class=body] .img-responsive { height: auto !important; max-width: 100% !important; width: auto !important; }
+        }</style>
+</body>
+</html>
+
+
+--60C2CB400B1.1589238029/iad1-shared-relay1.dreamhost.com--

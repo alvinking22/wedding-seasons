@@ -1,0 +1,192 @@
+Return-Path: <>
+X-Original-To: dh_xbtk77@hedgehog.dreamhost.com
+Delivered-To: dh_xbtk77@hedgehog.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by hedgehog.dreamhost.com (Postfix) with ESMTP id DC828359A5
+	for <dh_xbtk77@hedgehog.dreamhost.com>; Fri,  8 May 2020 13:57:54 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id BE32EB400DA; Fri,  8 May 2020 13:57:54 -0700 (PDT)
+Date: Fri,  8 May 2020 13:57:54 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: dh_xbtk77@hedgehog.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="506E7B40055.1588971474/iad1-shared-relay1.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200508205754.BE32EB400DA@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--506E7B40055.1588971474/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+https://www.dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<teresa.suarez1456@hotmail.com>: host
+    hotmail-com.olc.protection.outlook.com[104.47.56.161] said: 550 5.7.1
+    Unfortunately, messages from [208.113.157.50] weren't sent. Please contact
+    your Internet service provider since part of their network is on our block
+    list (S3140). You can also refer your provider to
+    http://mail.live.com/mail/troubleshooting.aspx#errors.
+    [CO1NAM11FT016.eop-nam11.prod.protection.outlook.com] (in reply to MAIL
+    FROM command)
+
+--506E7B40055.1588971474/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 506E7B40055
+X-Postfix-Sender: rfc822; dh_xbtk77@hedgehog.dreamhost.com
+Arrival-Date: Fri,  8 May 2020 13:57:54 -0700 (PDT)
+
+Final-Recipient: rfc822; teresa.suarez1456@hotmail.com
+Original-Recipient: rfc822;teresa.suarez1456@hotmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; hotmail-com.olc.protection.outlook.com
+Diagnostic-Code: smtp; 550 5.7.1 Unfortunately, messages from [208.113.157.50]
+    weren't sent. Please contact your Internet service provider since part of
+    their network is on our block list (S3140). You can also refer your
+    provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+    [CO1NAM11FT016.eop-nam11.prod.protection.outlook.com]
+
+--506E7B40055.1588971474/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <dh_xbtk77@hedgehog.dreamhost.com>
+Received: from hedgehog.dreamhost.com (hedgehog.dreamhost.com [173.236.184.142])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 506E7B40055
+	for <teresa.suarez1456@hotmail.com>; Fri,  8 May 2020 13:57:54 -0700 (PDT)
+Received: by hedgehog.dreamhost.com (Postfix, from userid 5575279)
+	id 3A70D359BF; Fri,  8 May 2020 13:57:54 -0700 (PDT)
+To: teresa.suarez1456@hotmail.com
+Subject: Bienvenido Teresa
+X-PHP-Originating-Script: 5575279:class-phpmailer.php
+Date: Fri, 8 May 2020 20:57:54 +0000
+From: Wedding Seasons <info@weddingseasons.app>
+Reply-To: Wedding Seasons <info@weddingseasons.app>
+Message-ID: <d2fbe4f12ac4f10e3893eff74a352fa0@weddingseasons.app>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="es" style="height: 100%; position: relative;">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Weddingseasons</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" class="kt-woo-wrap order-items-normal k-responsive-normal title-style-none email-id-customer_new_account" style="height: 100%; position: relative; background-color: #f7f7f7; margin: 0; padding: 0;">
+		<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; padding-top: 70px; padding-bottom: px; -webkit-text-size-adjust: none;">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tr>
+<td align="center" valign="top">
+													<table id="template_header_image_container" style="width: 100%; background-color: transparent;"><tr id="template_header_image">
+<td align="center" valign="middle">
+										<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_header_image_table"><tr>
+<td align="center" valign="middle" style="text-align: center; padding-top: 0px; padding-bottom: 0px;">
+																									</td>
+											</tr></table>
+</td>
+								</tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; overflow: hidden; border-style: solid; border-width: 1px; border-right-width: px; border-bottom-width: px; border-left-width: px; border-color: #dedede; border-radius: 3px; box-shadow: 0 1px 4px 1px rgba(0,0,0,0.1);">
+<tr>
+<td align="center" valign="top">
+																		<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_header" style='border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; background-color: #097369; color: #ffffff;'><tr>
+<td id="header_wrapper" style="padding: 36px 48px; display: block; text-align: left; padding-top: px; padding-bottom: px; padding-left: 48px; padding-right: 48px;">
+																								<h1 style='margin: 0; text-align: left; font-size: 30px; line-height: 40px; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-style: normal; font-weight: 300; color: #ffffff;'>Nueva Cuenta</h1>
+																							</td>
+										</tr></table>
+<!-- End Header -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body"><tr>
+<td valign="top" id="body_content" style="background-color: #ffffff; padding-top: px; padding-bottom: 0px;">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 0px 48px 0; padding-left: 48px; padding-right: 48px;">
+															<div id="body_content_inner" style='color: #636363; text-align: left; font-size: 14px; line-height: 24px; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: 400;'>
+
+<p style="margin: 0 0 16px;">Hola Teresa,</p>
+<p style="margin: 0 0 16px;">Gracias por crear una cuenta en Weddingseasons. Tu nombre de usuario es <strong>Teresa</strong>. Puedes acceder al área de tu cuenta para ver pedidos, cambiar tu contraseña y más en: <a href="https://weddingseasons.app/my-account/" rel="nofollow" style="font-weight: normal; text-decoration: underline; color: #097369;">https://weddingseasons.app/my-account/</a></p>
+
+<p style="margin: 0 0 16px;">Esperamos verte pronto navegando en nuestra plataforma.</p>
+															</div>
+														</td>
+													</tr></table>
+<!-- End Content -->
+</td>
+										</tr></table>
+<!-- End Body -->
+</td>
+							</tr>
+<tr>
+<td align="center" valign="top">
+											<table border="0" cellpadding="0" cellspacing="0" width="100%" id="template_footer_container"><tr>
+<td valign="top" align="center">
+					<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer"><tr>
+<td valign="top" id="template_footer_inside" style="padding: 0; padding-top: 0px; padding-bottom: 48px; padding-left: 48px; padding-right: 48px;">
+								<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td valign="top" style="padding: 0;">
+											<table border="0" cellpadding="10" cellspacing="0" width="100%"><tr>
+<td colspan="2" valign="middle" id="credit" style='padding: 0; border: 0; line-height: 125%; padding-left: 0px; padding-right: 0px; text-align: center; font-size: 12px; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-weight: 400; color: #555555; padding-top: 0px; padding-bottom: 0px;'>
+														<p style="color: #555555;">Weddingseasons</p>
+													</td>
+												</tr></table>
+</td>
+									</tr></table>
+</td>
+						</tr></table>
+</td>
+			</tr></table>
+<table class="gmail-app-fix" width="100%" border="0" cellpadding="0" cellspacing="0"><tr>
+<td>
+													<table cellpadding="0" cellspacing="0" border="0" align="center" width="600"><tr>
+<td cellpadding="0" cellspacing="0" border="0" height="1" style="line-height: 1px; min-width: 200px;">
+															</td>
+															<td cellpadding="0" cellspacing="0" border="0" height="1" style="line-height: 1px; min-width: 200px;">
+															</td>
+															<td cellpadding="0" cellspacing="0" border="0" height="1" style="line-height: 1px; min-width: 200px;">
+															</td>
+														</tr></table>
+</td>
+											</tr></table>
+</td>
+							</tr>
+</table>
+<!-- End template container -->
+</td>
+				</tr></table>
+</div>
+	</body>
+</html>
+
+
+--506E7B40055.1588971474/iad1-shared-relay1.dreamhost.com--

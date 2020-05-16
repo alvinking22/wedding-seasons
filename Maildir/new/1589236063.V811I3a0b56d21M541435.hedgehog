@@ -1,0 +1,96 @@
+Return-Path: <>
+X-Original-To: dh_xbtk77@hedgehog.dreamhost.com
+Delivered-To: dh_xbtk77@hedgehog.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by hedgehog.dreamhost.com (Postfix) with ESMTP id 777FA35CC7
+	for <dh_xbtk77@hedgehog.dreamhost.com>; Mon, 11 May 2020 15:27:43 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id 592B5B40084; Mon, 11 May 2020 15:27:43 -0700 (PDT)
+Date: Mon, 11 May 2020 15:27:43 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: dh_xbtk77@hedgehog.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="2774CB4007D.1589236063/iad1-shared-relay1.dreamhost.com"
+Message-Id: <20200511222743.592B5B40084@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--2774CB4007D.1589236063/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+https://www.dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<info@weddingseasons.app>: host weddingseasons.app[173.236.184.180] said: 554
+    5.7.1 <info@weddingseasons.app>: Recipient address rejected: Access denied
+    (in reply to RCPT TO command)
+
+--2774CB4007D.1589236063/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: 2774CB4007D
+X-Postfix-Sender: rfc822; dh_xbtk77@hedgehog.dreamhost.com
+Arrival-Date: Mon, 11 May 2020 15:27:43 -0700 (PDT)
+
+Final-Recipient: rfc822; info@weddingseasons.app
+Original-Recipient: rfc822;info@weddingseasons.app
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; weddingseasons.app
+Diagnostic-Code: smtp; 554 5.7.1 <info@weddingseasons.app>: Recipient address
+    rejected: Access denied
+
+--2774CB4007D.1589236063/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <dh_xbtk77@hedgehog.dreamhost.com>
+Received: from hedgehog.dreamhost.com (hedgehog.dreamhost.com [173.236.184.142])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id 2774CB4007D
+	for <info@weddingseasons.app>; Mon, 11 May 2020 15:27:43 -0700 (PDT)
+Received: by hedgehog.dreamhost.com (Postfix, from userid 5575279)
+	id E27FF35CC7; Mon, 11 May 2020 15:27:42 -0700 (PDT)
+To: info@weddingseasons.app
+Subject: =?UTF-8?Q?Weddingseasons_=C2=ABInteres_en_el_plan_3=C2=BB?=
+X-PHP-Originating-Script: 5575279:class-phpmailer.php
+Date: Mon, 11 May 2020 22:27:42 +0000
+From: Weddingseasons <wordpress@weddingseasons.app>
+Reply-To: alejandrotaveras@gmail.com
+Message-ID: <9b2e6c9de2665aa3ff4db446db8dbd05@weddingseasons.app>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+De: Alejandro Taveras <alejandrotaveras@gmail.com>
+Asunto: Interes en el plan 3
+
+Cuerpo del mensaje:
+Gracias por esta interesante pagina, me gustaria recibir mas informacion sobre el plan 3
+
+-- 
+Este mensaje se ha enviado desde un formulario de contacto en Weddingseasons (https://weddingseasons.app)
+
+
+--2774CB4007D.1589236063/iad1-shared-relay1.dreamhost.com--

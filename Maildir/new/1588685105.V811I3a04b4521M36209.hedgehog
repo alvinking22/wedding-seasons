@@ -1,0 +1,91 @@
+Return-Path: <>
+X-Original-To: dh_xbtk77@hedgehog.dreamhost.com
+Delivered-To: dh_xbtk77@hedgehog.dreamhost.com
+Received: from iad1-shared-relay1.dreamhost.com (iad1-shared-relay1.dreamhost.com [208.113.157.50])
+	by hedgehog.dreamhost.com (Postfix) with ESMTP id 055BB2314C
+	for <dh_xbtk77@hedgehog.dreamhost.com>; Tue,  5 May 2020 06:25:05 -0700 (PDT)
+Received: by iad1-shared-relay1.dreamhost.com (Postfix)
+	id D946EB40085; Tue,  5 May 2020 06:25:04 -0700 (PDT)
+Date: Tue,  5 May 2020 06:25:04 -0700 (PDT)
+From: MAILER-DAEMON@iad1-shared-relay1.dreamhost.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: dh_xbtk77@hedgehog.dreamhost.com
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="A5574B40097.1588685104/iad1-shared-relay1.dreamhost.com"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200505132504.D946EB40085@iad1-shared-relay1.dreamhost.com>
+
+This is a MIME-encapsulated message.
+
+--A5574B40097.1588685104/iad1-shared-relay1.dreamhost.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host iad1-shared-relay1.dreamhost.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+If you are a current customer of DreamHost, please contact our 
+technical support team here
+
+https://panel.dreamhost.com/support
+
+If you are not a customer please use our contact form at.
+
+https://www.dreamhost.com/contact
+
+If you do so, please include this email in your support ticket. You can
+delete your own text from the attached returned message.
+
+		DreamHost Email Support
+
+<info@weddingseasons.app>: host weddingseasons.app[173.236.184.180] said: 554
+    5.7.1 <info@weddingseasons.app>: Recipient address rejected: Access denied
+    (in reply to RCPT TO command)
+
+--A5574B40097.1588685104/iad1-shared-relay1.dreamhost.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; iad1-shared-relay1.dreamhost.com
+X-Postfix-Queue-ID: A5574B40097
+X-Postfix-Sender: rfc822; dh_xbtk77@hedgehog.dreamhost.com
+Arrival-Date: Tue,  5 May 2020 06:25:04 -0700 (PDT)
+
+Final-Recipient: rfc822; info@weddingseasons.app
+Original-Recipient: rfc822;info@weddingseasons.app
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; weddingseasons.app
+Diagnostic-Code: smtp; 554 5.7.1 <info@weddingseasons.app>: Recipient address
+    rejected: Access denied
+
+--A5574B40097.1588685104/iad1-shared-relay1.dreamhost.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <dh_xbtk77@hedgehog.dreamhost.com>
+Received: from hedgehog.dreamhost.com (hedgehog.dreamhost.com [173.236.184.142])
+	by iad1-shared-relay1.dreamhost.com (Postfix) with ESMTP id A5574B40097
+	for <info@weddingseasons.app>; Tue,  5 May 2020 06:25:04 -0700 (PDT)
+Received: by hedgehog.dreamhost.com (Postfix, from userid 5575279)
+	id 818A534F28; Tue,  5 May 2020 06:25:04 -0700 (PDT)
+To: info@weddingseasons.app
+Subject: =?UTF-8?Q?[Weddingseasons]_Contrase=C3=B1a_cambiada?=
+X-PHP-Originating-Script: 5575279:class-phpmailer.php
+Date: Tue, 5 May 2020 13:25:04 +0000
+From: WordPress <wordpress@weddingseasons.app>
+Message-ID: <120040ad352f18931ace12bd37772357@weddingseasons.app>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Contraseña modificada para el usuario alizamcnish5780
+
+
+--A5574B40097.1588685104/iad1-shared-relay1.dreamhost.com--
